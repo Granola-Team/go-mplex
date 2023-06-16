@@ -8,7 +8,7 @@ import (
 	"net"
 	"sync"
 
-	mplex "github.com/Isaac-DeFrain/go-mplex"
+	mplex "github.com/Granola-Team/go-mplex"
 )
 
 var jsTestData = "test data from js %d"

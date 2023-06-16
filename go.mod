@@ -1,4 +1,4 @@
-module github.com/Isaac-DeFrain/go-mplex
+module github.com/Granola-Team/go-mplex
 
 require (
 	github.com/ipfs/go-log v1.0.4
